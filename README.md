@@ -10,9 +10,6 @@
 
   <p align="center">
     Stochastic Step Skipping in Tiny Diffusion Models
-    <br />
-    <a href="https://github.com/Tonic4to/stepdrop-tiny-diffusion/blob/main/StepDrop_in_Stable_Diffusion_1.5.ipynb"><strong>Explore the Demo Notebook »</strong></a>
-    <br />
   </p>
 </div>
 
