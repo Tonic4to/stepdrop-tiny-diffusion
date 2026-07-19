@@ -1,15 +1,8 @@
 <a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wanghley)
 
 <br />
 <div align="center">
-  <a href="https://github.com/wanghley/stepdrop-tiny-diffusion">
+  <a href="https://github.com/Tonic4to/stepdrop-tiny-diffusion">
     <img src="docs/Figures/comparison-methodologies-matrix.png" alt="StepDrop Demo" width="350">
   </a>
 
@@ -18,7 +11,7 @@
   <p align="center">
     Stochastic Step Skipping in Tiny Diffusion Models
     <br />
-    <a href="https://github.com/wanghley/stepdrop-tiny-diffusion/blob/main/StepDrop_in_Stable_Diffusion_1.5.ipynb"><strong>Explore the Demo Notebook »</strong></a>
+    <a href="https://github.com/Tonic4to/stepdrop-tiny-diffusion/blob/main/StepDrop_in_Stable_Diffusion_1.5.ipynb"><strong>Explore the Demo Notebook »</strong></a>
     <br />
   </p>
 </div>
@@ -75,7 +68,7 @@ This repository contains the official implementation, experiments, and demo note
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/wanghley/stepdrop-tiny-diffusion.git
+   git clone https://github.com/Tonic4to/stepdrop-tiny-diffusion.git
    cd stepdrop-tiny-diffusion
    ```
 
@@ -466,7 +459,7 @@ sbatch scripts/run_pipeline.slurm --train --dataset cifar10 --epochs 100
 - [ ] Integration with HuggingFace Diffusers
 - [ ] Support for more diffusion schedulers
 
-See [open issues](https://github.com/wanghley/stepdrop-tiny-diffusion/issues) for proposed features and known issues.
+See [open issues](https://github.com/Tonic4to/stepdrop-tiny-diffusion/issues) for proposed features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -494,7 +487,7 @@ Wanghley Soares Martins - [@wanghley](https://instagram.com/wanghley) - me@wangh
 
 Nicolas Vasilescu - [@NicolasVasilescu](https://www.linkedin.com/in/nicolasvasilescu/)
 
-Project Link: [https://github.com/wanghley/stepdrop-tiny-diffusion](https://github.com/wanghley/stepdrop-tiny-diffusion)
+Project Link: [https://github.com/Tonic4to/stepdrop-tiny-diffusion](https://github.com/Tonic4to/stepdrop-tiny-diffusion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -505,19 +498,3 @@ Project Link: [https://github.com/wanghley/stepdrop-tiny-diffusion](https://gith
 - [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/wanghley/stepdrop-tiny-diffusion?style=for-the-badge
-[contributors-url]: https://github.com/wanghley/stepdrop-tiny-diffusion/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wanghley/stepdrop-tiny-diffusion.svg?style=for-the-badge
-[forks-url]: https://github.com/wanghley/stepdrop-tiny-diffusion/network/members
-[stars-shield]: https://img.shields.io/github/stars/wanghley/stepdrop-tiny-diffusion.svg?style=for-the-badge
-[stars-url]: https://github.com/wanghley/stepdrop-tiny-diffusion/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wanghley/stepdrop-tiny-diffusion.svg?style=for-the-badge
-[issues-url]: https://github.com/wanghley/stepdrop-tiny-diffusion/issues
-[license-shield]: https://img.shields.io/github/license/wanghley/stepdrop-tiny-diffusion.svg?style=for-the-badge
-[license-url]: https://github.com/wanghley/stepdrop-tiny-diffusion/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/wanghley
-[product-screenshot]: images/screenshot.png
